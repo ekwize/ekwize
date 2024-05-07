@@ -1,8 +1,8 @@
 # Hi, I'm Sergey Ulanov 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-ffffff?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![GitHub](https://img.shields.io/badge/GitHuub-000000?style=for-the-badge&logo=github&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ekwzex)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/668015275542708224)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ffffff?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ekwize/)
+[![GitHub](https://img.shields.io/badge/GitHuub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ekwize)
 
 <div style="margin-right: 20px">
     <img src="https://i.ibb.co/WKhgNFf/2c93f0bdad7cbc950646add789382f35.webp" height=300  style="max-width: 100%; height: 200; border-radius: 15px"/>
